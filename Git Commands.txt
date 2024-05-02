@@ -62,3 +62,4 @@ git fetch is done if you want to modify the file recrusively so keep your file o
 by mistake some body deleetd the file from your remote repos so dont pull just ue fetch to keep your changes limited till loca repos only
 
 
+git push = push changes from local to remote
